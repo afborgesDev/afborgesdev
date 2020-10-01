@@ -2,8 +2,8 @@
 
 I solve problems, eventualy using a programming language.
 
-Hi, I'm a software engineer, my focus is on delivery good solutions
-to aimn that I like go deep into code quality and tests.
+Hi, I'm a software engineer, my focus is on delivering good solutions.  
+To do that I like to go deep into code quality and tests.
 
 ## About:
 - **Language** : C#, GO, Delphi
