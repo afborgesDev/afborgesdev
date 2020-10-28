@@ -1,3 +1,4 @@
+![cover](images/cover.png)
 # Alexandre Borges
 
 I solve problems, eventualy using a programming language.
