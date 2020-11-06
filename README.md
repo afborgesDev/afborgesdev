@@ -12,4 +12,4 @@ To do that I like to go deep into code quality and tests.
 - **Pronouns**: He / Him | Ele / Dele
 - **Carrer Focus** : Code Quality, Code Performance, Tests, and microservices.
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alborges/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afborgesdev/)
