@@ -11,7 +11,7 @@ Hi, I'm a software engineer, my focus is on delivering good solutions.
 To do that I like to go deep into code quality and tests.
 
 ## About:
-- **Language** : C#, GO, Delphi
+- **Language** : C#, GO
 - **Hobbies** : Coffee ☕, Vinil music, and art in general.
 - **Pronouns**: He / Him | Ele / Dele
 - **Career Focus** : Code Quality, Code Performance, Tests, and microservices.
